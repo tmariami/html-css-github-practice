@@ -3,3 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+.hero {
+  padding: 50px;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 2rem;
+}
+.hero p {
+  font-size: 1rem;
+  color: #333;
+}

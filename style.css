@@ -3,6 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+}
 .hero {
   padding: 50px;
   background-color: #f0f0f0;
